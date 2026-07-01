@@ -110,7 +110,7 @@ def transform(df, prep):
 
 if __name__ == "__main__":
     os.environ[
-        "KAGGLE_API_TOKEN"] = "KGAT_ec71a988f9111fa61c3453b31f5f2334"  # the KGAT_... value, after revoking the exposed one
+        "KAGGLE_API_TOKEN"] = "..."  # the KGAT_... value, after revoking the exposed one
 
     path = kagglehub.competition_download("titanic")
     print("Path to competition files:", path)
