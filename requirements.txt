@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep learning
+torch
+
+# Data fetching
+kagglehub
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# App
+streamlit
+
+# EDA notebook (optional)
+jupyter

@@ -1,0 +1,14 @@
+{
+    "seed": 42,
+    "batch_size": 16,
+    "learning_rate": 0.005,
+    "epochs": 200,
+    "patience": 15,
+    "hidden_dims": [
+        64,
+        32,
+        16
+    ],
+    "dropout_rate": 0.2,
+    "input_dim": 17
+}
