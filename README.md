@@ -44,9 +44,22 @@ are imbalanced (~38% survived) and accuracy alone can be misleading.
 
 Requires **Python 3.10+**.
 
+## Installation
+
+1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/ilyayaver95/home_assignment_ilya_yaverbaum_titanic_dataset.git
+cd home_assignment_ilya_yaverbaum_titanic_dataset
+```
+
+2. (Optional but recommended) Create and activate a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```
+
+3. Install the required dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
